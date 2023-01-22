@@ -9,7 +9,7 @@ In order to execute it, install the files and run
 
 # Demonstration
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/EM4RZdwchiw)
 
 # Development Environment
 
